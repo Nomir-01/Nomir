@@ -1,29 +1,26 @@
-<h1 align="center">Hi 👋, I'm Nomir Nasir</h1>
-<h3 align="center">🌟 Software Developer | AI Enthusiast | Fast Learner</h3>
+# Hi, I’m Nomir Nasir
 
-- 🌏 I’m based in **Karachi, Pakistan**
+I’m a data science master’s student with a background in computer science and hands-on projects across machine learning, data analysis, computer vision, mobile development, and web applications.
 
-- 🌱 I’m currently learning **flutter and machine learning.**
+## Current focus
 
-- 🎓 I am pursuing degree in **Computer Science.**
+- developing practical data-science and machine-learning skills
+- working with Python, pandas, scikit-learn, TensorFlow, SQL, and data visualization
+- building complete projects that connect analysis, models, APIs, dashboards, and user-facing applications
 
-- 🌐 To know more about my work, check out my LinkedIn for more details about my professional experience. [https://www.linkedin.com/in/nomir-nasir-3b0bb3270/](https://www.linkedin.com/in/nomir-nasir-3b0bb3270/)
+## Selected projects
 
-- 👨‍💻 All of my projects are available at [https://github.com/Nomir-01?tab=repositories](https://github.com/Nomir-01?tab=repositories)
+- [Real-Time AI Voice Assistant](https://github.com/Nomir-01/Real-Time-AI-Voice-Assistant) — speech recognition, conversational AI, and text-to-speech
+- [Pothole Detector Application](https://github.com/Nomir-01/Pothole-Detector-Application) — Flutter, maps, Firebase, and field reporting
+- [Pothole Detector Hardware](https://github.com/Nomir-01/Pothole-Detector-Hardware) — edge inference, sensors, GPS, and a Flask service
+- [YouTube Data Batch Analysis](https://github.com/Nomir-01/Batch-Analysis-On-Youtube-Data) — PySpark preprocessing and an interactive Dash dashboard
+- [A* Pathfinding Visualizer](https://github.com/Nomir-01/A-star-Algorithm) — interactive algorithm visualization with Python and Pygame
 
-- 💡 My areas of interest include **machine learning, artificial intelligence, web development and app development.**
+You can browse the rest of my work in my [GitHub repositories](https://github.com/Nomir-01?tab=repositories).
 
-- 📫 How to reach me **nomirnasir@gmail.com**
+## Connect
 
-- ⚡ Fun fact **I love to do photography and picture editing.**
+- [LinkedIn](https://www.linkedin.com/in/nomir-nasir-3b0bb3270/)
+- Email: `nomirnasir@gmail.com`
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nomir nasir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nomir nasir" height="30" width="40" /></a>
-<a href="https://fb.com/nomir nasir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nomir nasir" height="30" width="40" /></a>
-<a href="https://instagram.com/nomir_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nomir_01" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
+Outside technology, I enjoy photography and image editing.
